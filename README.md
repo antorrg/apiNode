@@ -1,0 +1,2 @@
+# ApiNode
+Api creada a fin de experimentar con node.js y base de datos sqlite con better-sqlite orientada a electron, con sanitización de datos y manejo de errores. Esta api está implementada con jest como tester.
